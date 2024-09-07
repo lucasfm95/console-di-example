@@ -1,0 +1,5 @@
+
+*.user
+.idea
+src/ConsoleDiExample/bin
+src/ConsoleDiExample/obj
